@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html class="scroll-smooth" lang="en" data-theme="night" translate="no">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="robots" content="noindex" />
+      <meta name="googlebot" content="noindex" />
+      <meta name="theme-color" content="#000000" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>N</title>
+   </head>
+   <style>
+@font-face {
+	font-family: 'Clerestory SSK';
+	src: url("clers.ttf");
+}
+
+body {
+	background: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	user-select: none;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 70vw;
+	color: #000;
+	font-weight: normal;
+	font-family: 'Clerestory SSK', serif;
+	margin: 0;
+	white-space: nowrap;
+	user-select: none;
+}
+
+.music {
+	position: absolute;
+	margin: auto;
+	height: 50%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+   </style>
+   <body onclick="playAudio();" class="">
+      <h1>N</h1>
+      <audio id="sec" __idm_id__="823202817">
+         <source src="n.mp3" type="audio/mpeg">
+         </source>
+      </audio>
+      <div class="music"></div>
+      
+      <script>var x=document.getElementById("sec");function playAudio(){x.play()}function myFunction(){document.body.classList.toggle("dark-mode")}function changeImage(){document.getElementById("imgClickAndChange").src,document.getElementById("imgClickAndChange").src="body"}</script>
+      <script>alert("Double tap the background for music")</script>
+   </body>
+  </html>

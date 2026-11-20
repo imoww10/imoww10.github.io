@@ -1,0 +1,507 @@
+# As a condition of accessing
+# this website, you agree to
+# abide by the following
+# content signals:
+
+# (a)  If a content-signal =
+# yes, you may collect
+# content for the
+# corresponding use.
+# (b)  If a content-signal =
+# no, you may not collect
+# content for the
+# corresponding use.
+# (c)  If the website
+# operator does not include a
+# content signal for a
+# corresponding use, the
+# website operator neither
+# grants nor restricts
+# permission via content
+# signal with respect to the
+# corresponding use.
+
+# The content signals and
+# their meanings are:
+
+# search: building a search
+# index and providing search
+# results (e.g., returning
+# hyperlinks and short
+# excerpts from your
+# website's contents). 
+# Search does not include
+# providing AI-generated
+# search summaries.
+# ai-input: inputting content
+# into one or more AI models
+# (e.g., retrieval augmented
+# generation, grounding, or
+# other real-time taking of
+# content for generative AI
+# search answers).
+# ai-train: training or
+# fine-tuning AI models.
+
+# ANY RESTRICTIONS EXPRESSED
+# VIA CONTENT SIGNALS ARE
+# EXPRESS RESERVATIONS OF
+# RIGHTS UNDER ARTICLE 4 OF
+# THE EUROPEAN UNION
+# DIRECTIVE 2019/790 ON
+# COPYRIGHT AND RELATED
+# RIGHTS IN THE DIGITAL
+# SINGLE MARKET.
+
+User-Agent: *
+Disallow: /
+
+User-Agent: intelx.io_bot
+Disallow: /
+
+User-Agent: BadBot
+Disallow: /
+
+User-Agent: Yahoo! Slurp
+Disallow: /
+
+User-Agent: github-camo
+Disallow: /
+
+User-Agent: Google-Safety
+Disallow: /
+
+User-Agent: YahooCacheSystem
+Disallow: /
+
+User-Agent: yandex
+Disallow: /
+
+User-Agent: NewsNow
+Disallow: /
+
+User-Agent: Kagibot
+Disallow: /
+
+User-Agent: Mojeekbot
+Disallow: /
+
+User-Agent: Googlebot
+Disallow: /
+
+User-Agent: Google Images
+Disallow: /
+
+User-Agent: Google Videos
+Disallow: /
+
+User-Agent: Googlebot-mobile
+Disallow: /
+
+User-Agent: Googlebot-IA
+Disallow: /
+
+User-Agent: Yahoo Ad monitoring
+Disallow: /
+
+User-Agent: Yahoo Japan
+Disallow: /
+
+User-Agent: bigsur.ai
+Disallow: /
+
+User-Agent: aa
+Disallow: /
+
+User-Agent: ChatGLM-Spider
+Disallow: /
+
+User-Agent: botify
+Disallow: /
+
+User-Agent: deepcrawl
+Disallow: /
+
+User-Agent: deepcrawl.com
+Disallow: /
+
+User-Agent: MegaIndex.ru
+Disallow: /
+
+User-Agent: NitroBot
+Disallow: /
+
+User-Agent: 008
+Disallow: /
+
+User-Agent: HTTrack
+Disallow: /
+
+User-Agent: HTTrack 3.0
+Disallow: /
+
+User-Agent: Sucuri
+Disallow: /
+
+User-Agent: SSL Labs
+Disallow: /
+
+User-Agent: SecurityHeaders
+Disallow: /
+
+User-Agent: SiteLockSpider
+Disallow: /
+
+User-Agent: Odin
+Disallow: /
+
+User-Agent: Observer
+Disallow: /
+
+User-Agent: Nmap Scripting Engine
+Disallow: /
+
+User-Agent: LegalMonster
+Disallow: /
+
+User-Agent: Jumio
+Disallow: /
+
+User-Agent: Netcraft
+Disallow: /
+
+User-Agent: Cloudflare-Validator
+Disallow: /
+
+User-Agent: CookieYesBot
+Disallow: /
+
+User-Agent: binarycanary
+Disallow: /
+
+User-Agent: Discordbot
+Disallow: /
+
+User-Agent: Google Web Preview
+Disallow: /
+
+User-Agent: Hatena
+Disallow: /
+
+User-Agent: redditbot
+Disallow: /
+
+User-Agent: Tumblr
+Disallow: /
+
+User-Agent: Viber
+Disallow: /
+
+User-Agent: SalesViewerBot
+Disallow: /
+
+User-Agent: Bing Ads
+Disallow: /
+
+User-Agent: AdsBot-Google
+Disallow: /
+
+User-Agent: AdsBit-Google-Mobile
+Disallow: /
+
+User-Agent: Yahoo Link Preview
+Disallow: /
+
+User-Agent: vkShare
+Disallow: /
+
+User-Agent: WhatsApp
+Disallow: /
+
+User-Agent: Telegram Bot
+Disallow: /
+
+User-Agent: TelegramBot
+Disallow: /
+
+User-Agent: SteamChat
+Disallow: /
+
+User-Agent: Skype
+Disallow: /
+
+User-Agent: Quora-Bot
+Disallow: /
+
+User-Agent: Mail.RU_Bot
+Disallow: /
+
+User-Agent: Pinterestbot
+Disallow: /
+
+User-Agent: Ozon Web Grabber
+Disallow: /
+
+User-Agent: NewsBlur
+Disallow: /
+
+User-Agent: Mastodon
+Disallow: /
+
+User-Agent: Hatena::RUssia::Crawler
+Disallow: /
+
+User-Agent: Inoreader
+Disallow: /
+
+User-Agent: HatenaBlog-bot
+Disallow: /
+
+User-Agent: GoogleDocs
+Disallow: /
+
+User-Agent: facebook
+Disallow: /
+
+User-Agent: ButtonDown
+Disallow: /
+
+User-Agent: bitlybot
+Disallow: /
+
+User-Agent: Bluesky Link Preview Service
+Disallow: /
+
+User-Agent: Bluesky
+Disallow: /
+
+User-Agent: Bing Preview
+Disallow: /
+
+User-Agent: WebsiteOps
+Disallow: /
+
+User-Agent: webpagetest
+Disallow: /
+
+User-Agent: uptrends
+Disallow: /
+
+User-Agent: updown.io daemon
+Disallow: /
+
+User-Agent: UpDownBot
+Disallow: /
+
+User-Agent: InternetArchiveBot
+Disallow: /
+
+User-Agent: updown.io
+Disallow: /
+
+User-Agent: NodePing
+Disallow: /
+
+User-Agent: Datadog
+Disallow: /
+
+User-Agent: Dark Visitor Server
+Disallow: /
+
+User-Agent: Criticalcss.com
+Disallow: /
+
+User-Agent: Chirp
+Disallow: /
+
+User-Agent: Chrome-Lighthouse
+Disallow: /
+
+User-Agent: Cloudflare SpeedTest
+Disallow: /
+
+User-Agent: Cloudflare Radar URL Scanner
+Disallow: /
+
+User-Agent: cf-qualys-scanner
+Disallow: /
+
+User-Agent: laion-huggingface-processor
+Disallow: /
+
+User-Agent: Archive-It
+Disallow: /
+
+User-Agent: special_archiver
+Disallow: /
+
+User-Agent: mirrorweb
+Disallow: /
+
+User-Agent: Authory
+Disallow: /
+
+User-Agent: Cloudflare-AutoRAG
+Disallow: /
+
+User-Agent: AlertSite
+Disallow: /
+
+User-Agent: Alertsite by Smartbear
+Disallow: /
+
+User-Agent: 2ip Bot
+Disallow: /
+
+User-Agent: 360monitoring
+Disallow: /
+
+User-Agent: HeadlessChrome
+Disallow: /
+
+User-Agent: Dark Visitor Client
+Disallow: /
+
+User-Agent: Browserbase
+Disallow: /
+
+User-Agent: SmarshBot
+Disallow: /
+
+User-Agent: ZanistaBot
+Disallow: /
+
+User-Agent: YouBot
+Disallow: /
+
+User-Agent: meta-webindexer
+Disallow: /
+
+User-Agent: LinkupBot
+Disallow: /
+
+User-Agent: Internet Archive
+Disallow: /
+
+User-Agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-Agent: Arquivo-web-crawler
+Disallow: /
+
+User-Agent: archive.org_bot
+Disallow: /
+
+User-Agent: Baidu-ADS
+Disallow: /
+
+User-Agent: LCC
+Disallow: /
+
+User-Agent: Storebot-Google
+Disallow: /
+
+User-Agent: OnCrawl Mobile
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /
+
+User-Agent: Amazonbot
+Disallow: /
+
+User-Agent: Applebot-Extended
+Disallow: /
+
+User-Agent: Applebot
+Disallow: /
+
+User-Agent: DeepSeekBot
+Disallow: /
+
+User-Agent: OpenAI
+Disallow: /
+
+User-Agent: AmazonBuyForMe
+Disallow: /
+
+User-Agent: amazon-kendra
+Disallow: /
+
+User-Agent: AddSearchBot
+Disallow: /
+
+User-Agent: Bravebot
+Disallow: /
+
+User-Agent: Spider
+Disallow: /
+
+User-Agent: FacebookBot
+Disallow: /
+
+User-Agent: Linespider
+Disallow: /
+
+User-Agent: TikTokSpider
+Disallow: /
+
+User-Agent: KeybaseBot
+Disallow: /
+
+User-Agent: Vercelbot
+Disallow: /
+
+User-Agent: CookieHubScan
+Disallow: /
+
+User-Agent: Nicecrawler
+Disallow: /
+
+User-Agent: SiteCheckerBotCrawler
+Disallow: /
+
+User-Agent: CrawlyProjectCrawler
+Disallow: /
+
+User-Agent: CISPA Webcrawler
+Disallow: /
+
+User-Agent: Audisto Crawler
+Disallow: /
+
+User-Agent: facebookcatalog
+Disallow: /
+
+User-Agent: Twitterbot
+Disallow: /
+
+User-Agent: Applebot-Extended
+Disallow: /
+
+User-Agent: Bytespider
+Disallow: /
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+User-Agent: meta-externalagent
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
+
+User-Agent: Diffbot
+Disallow: /
+
+User-Agent: Screenjesus
+Disallow: /
